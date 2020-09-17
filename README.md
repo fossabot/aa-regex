@@ -1,6 +1,7 @@
 # aa-regex
 
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeanmanguy%2Faa-regex.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeanmanguy%2Faa-regex?ref=badge_shield)
 
 
 [![Rust](https://github.com/jeanmanguy/aa-regex/workflows/Rust/badge.svg?branch=master)](https://github.com/jeanmanguy/aa-regex/actions?query=workflow%3ARust)
@@ -81,3 +82,6 @@ Please create a new issue on the [project repository](https://github.com/jeanman
 ## License
 
 Aa-regex is distributed under the terms of the Apache License (Version 2.0). See [LICENSE](./LICENSE) for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeanmanguy%2Faa-regex.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeanmanguy%2Faa-regex?ref=badge_large)
